@@ -13,9 +13,6 @@ for periodic notes (daily, weekly, etc.).
 cargo install --path .
 ```
 
-See [INSTALL.md](INSTALL.md) for full distribution options (crates.io,
-pre-compiled binaries, Homebrew, AUR, Nix).
-
 ---
 
 ## Commands
